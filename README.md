@@ -1,8 +1,8 @@
 # lpg
 
-This is test suite to test all inclusive feature in gocity website.
+This is test suite to test all inclusive features in gocity website.
 
-These is written in bdd framework using cucumber and cypress.
+These is written in bdd framework using cucumber and cypress javascript.
 
 All the test scenario is in cypress/cypress/integration/lpg-all-inclusive/lpg-all-inclusive.feature
 
