@@ -1,0 +1,29 @@
+{
+  "name": "lpg",
+  "version": "1.0.0",
+  "description": "Test of the website feature",
+  "main": "y",
+  "dependencies": {
+    "cypress": "^6.4.0"
+  },
+  "devDependencies": {
+    "cypress-cucumber-preprocessor": "^4.0.0",
+    "cypress-eslint": "^1.1.0"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudiptac1/lpg.git"
+  },
+  "author": "sudipta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudiptac1/lpg/issues"
+  },
+  "homepage": "https://github.com/sudiptac1/lpg#readme"
+}
