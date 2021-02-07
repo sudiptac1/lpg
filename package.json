@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "Test of the website feature",
   "main": "y",
-  "dependencies": {
-    "cypress": "^6.4.0"
-  },
+  "dependencies": {},
   "devDependencies": {
+    "cypress": "^6.4.0",
+    "cypress-babel-esx-preprocessor": "^1.1.0",
     "cypress-cucumber-preprocessor": "^4.0.0",
     "cypress-eslint": "^1.1.0"
   },
